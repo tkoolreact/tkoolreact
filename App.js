@@ -4,6 +4,8 @@ import React, {useState, useRef, useEffect} from 'react';
 import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
 import MyComponent from './components/myTestComponent'
 
+// comment
+
 export default App = () => {
 
   const [myText, setMyText] = useState(''); 
